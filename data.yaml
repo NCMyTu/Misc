@@ -1,0 +1,9 @@
+path: ../dataset
+train: images/train
+val: images/val
+test:
+
+names:
+  0: title
+  1: author
+  2: other
